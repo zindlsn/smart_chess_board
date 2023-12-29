@@ -12,7 +12,11 @@
 ## goal of the project
 The goal is to build a own chess board with the following functionality:
 
-Inspired by the [YouTube-Video](https://youtube.com/shorts/w_YY8kvbV7I?si=iwk-sZpqzOtIxJl9):
+Inspired by
+
+[YouTube-Video](https://youtube.com/shorts/w_YY8kvbV7I?si=iwk-sZpqzOtIxJl9)
+
+https://www.youtube.com/watch?v=Z92TdhsAWD4&t=2s
 
 Minimal Value Product:
 1) Board Material: Wood and Epoxyresin
