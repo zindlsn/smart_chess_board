@@ -65,3 +65,12 @@ First Info on [Youtube](https://www.youtube.com/watch?time_continue=758&v=zD9cv4
 ### 3D Modelling
 
 ### Print Figures
+
+
+## Research
+
+Epoxy Colors:
+
+[Epodex](https://www.epodex.com/en/product/metallic-carbon-red-jet-black-epoxy-resin-for-surfaces/)
+
+https://www.epodex.us/product/epoxy-repair-and-glass-fiber-mat-kit/?1=Solid-Color-%E2%80%93-Azure-Blue&color=blue
