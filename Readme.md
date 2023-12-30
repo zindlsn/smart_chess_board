@@ -59,7 +59,7 @@ Steps to do:
 First Info on [Youtube](https://www.youtube.com/watch?time_continue=758&v=zD9cv4JiNfE&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=Mjg2NjY&feature=emb_logo)
 
 ## Print Figures
-
+https://www.youtube.com/watch?v=CvI87A9qkjo
 ### Design
 
 ### 3D Modelling
