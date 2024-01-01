@@ -19,12 +19,17 @@ Inspired by
 https://www.youtube.com/watch?v=Z92TdhsAWD4&t=2s
 
 Minimal Value Product:
+
+V1:
+
 1) Board Material: Wood and Epoxyresin
-2) Electronic: Posibitly to connect to App via Bluetooth
 3) Chess Figues printed ab 3D Printer
 
-Additional:
+V2:
 
+2) Electronic: Posibitly to connect to App via Bluetooth
+Additional:
+________________________________________________________
 4) Suitecase (e.g. Wooden)
 
 ## Build the Board
@@ -68,9 +73,19 @@ https://www.youtube.com/watch?v=CvI87A9qkjo
 
 
 ## Research
+Epoxy Amount Calculator:
+
+https://epoxid1.de/products/allrounder-epoxidharz-mit-haerter?variant=39535058452669
 
 Epoxy Colors:
 
 [Epodex](https://www.epodex.com/en/product/metallic-carbon-red-jet-black-epoxy-resin-for-surfaces/)
+
+https://www.epodex.com/de/produkt/epoxidharze-fuer-kunst-handwerk-verguesse-bis-2cm-eco-pro/?1=Coaster-Effect-Silver-%E2%80%93-2-Farben-%E2%80%93-10%2C99%E2%82%AC
+
+Germany:
+
+https://epoxid1.de
+
 
 https://www.epodex.us/product/epoxy-repair-and-glass-fiber-mat-kit/?1=Solid-Color-%E2%80%93-Azure-Blue&color=blue
