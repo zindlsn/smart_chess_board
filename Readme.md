@@ -83,6 +83,8 @@ Epoxy Colors:
 
 https://www.epodex.com/de/produkt/epoxidharze-fuer-kunst-handwerk-verguesse-bis-2cm-eco-pro/?1=Coaster-Effect-Silver-%E2%80%93-2-Farben-%E2%80%93-10%2C99%E2%82%AC
 
+https://www.epodex.com/de/produkt/epoxidharze-fuer-kunst-handwerk-verguesse-bis-2cm-eco-pro/
+
 Germany:
 
 https://epoxid1.de
