@@ -14,15 +14,24 @@
 ## Goal Of The Project
 The goal is to build a own chess board with the following functionality:
 
-Inspired by the [YouTube-Video](https://youtube.com/shorts/w_YY8kvbV7I?si=iwk-sZpqzOtIxJl9):
+Inspired by
+
+[YouTube-Video](https://youtube.com/shorts/w_YY8kvbV7I?si=iwk-sZpqzOtIxJl9)
+
+https://www.youtube.com/watch?v=Z92TdhsAWD4&t=2s
 
 Minimal Value Product:
+
+V1:
+
 1) Board Material: Wood and Epoxyresin
-2) Electronic: Posibitly to connect to App via Bluetooth
 3) Chess Figues printed ab 3D Printer
 
-Additional:
+V2:
 
+2) Electronic: Posibitly to connect to App via Bluetooth
+Additional:
+________________________________________________________
 4) Suitecase (e.g. Wooden)
 
 ## Build the Board
@@ -57,11 +66,34 @@ Steps to do:
 First Info on [Youtube](https://www.youtube.com/watch?time_continue=758&v=zD9cv4JiNfE&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=Mjg2NjY&feature=emb_logo)
 
 ## Print Figures
-
+https://www.youtube.com/watch?v=CvI87A9qkjo
 ### Design
 
 ### 3D Modelling
 
+[Pawn](https://www.youtube.com/watch?v=CvI87A9qkjo)
+
 ### Print Figures
 
+
 ## Build Suitcase
+
+## Research
+Epoxy Amount Calculator:
+
+https://epoxid1.de/products/allrounder-epoxidharz-mit-haerter?variant=39535058452669
+
+Epoxy Colors:
+
+[Epodex](https://www.epodex.com/en/product/metallic-carbon-red-jet-black-epoxy-resin-for-surfaces/)
+
+https://www.epodex.com/de/produkt/epoxidharze-fuer-kunst-handwerk-verguesse-bis-2cm-eco-pro/?1=Coaster-Effect-Silver-%E2%80%93-2-Farben-%E2%80%93-10%2C99%E2%82%AC
+
+https://www.epodex.com/de/produkt/epoxidharze-fuer-kunst-handwerk-verguesse-bis-2cm-eco-pro/
+
+Germany:
+
+https://epoxid1.de
+
+
+https://www.epodex.us/product/epoxy-repair-and-glass-fiber-mat-kit/?1=Solid-Color-%E2%80%93-Azure-Blue&color=blue
