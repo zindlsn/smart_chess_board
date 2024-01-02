@@ -7,9 +7,11 @@
 
 3. [Become Smart](#become-smart)
 
-3. [Print Figures](#print-figures)
+4. [Print Figures](#print-figures)
 
-## goal of the project
+5. [Build Suitcase](#build-suit-case)
+
+## Goal Of The Project
 The goal is to build a own chess board with the following functionality:
 
 Inspired by the [YouTube-Video](https://youtube.com/shorts/w_YY8kvbV7I?si=iwk-sZpqzOtIxJl9):
@@ -61,3 +63,5 @@ First Info on [Youtube](https://www.youtube.com/watch?time_continue=758&v=zD9cv4
 ### 3D Modelling
 
 ### Print Figures
+
+## Build Suitcase
