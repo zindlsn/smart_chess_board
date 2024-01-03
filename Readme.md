@@ -75,6 +75,8 @@ https://www.youtube.com/watch?v=CvI87A9qkjo
 
 [Pawn](https://www.youtube.com/watch?v=CvI87A9qkjo)
 
+[Bishop](https://www.youtube.com/watch?v=P9LP56hS-oc)
+
 ### Print Figures
 
 
