@@ -36,6 +36,8 @@ ________________________________________________________
 
 ## Build the Board
 
+http://meder.spacechess.org/3dschach/bau.htm
+
 Steps to do:
 
 1) Layout
