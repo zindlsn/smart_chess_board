@@ -77,6 +77,7 @@ https://www.youtube.com/watch?v=CvI87A9qkjo
 
 [Bishop](https://www.youtube.com/watch?v=P9LP56hS-oc)
 
+[Rook](https://www.youtube.com/watch?v=0UgQzqQXEvk)
 ### Print Figures
 
 
