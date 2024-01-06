@@ -80,7 +80,9 @@ https://www.youtube.com/watch?v=CvI87A9qkjo
 
 [Rook](https://www.youtube.com/watch?v=0UgQzqQXEvk)
 
-[Queen](https://www.youtube.com/watch?v=gLmEOWKO-cI)
+[Queen](https://www.youtube.com/results?search_query=chess+pieces+freecadsourse+queen)
+
+[King](https://www.youtube.com/watch?v=gLmEOWKO-cI)
 
 ### Print Figures
 
